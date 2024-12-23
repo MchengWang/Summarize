@@ -1,0 +1,159 @@
+[INFO] [17:02:06.299] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:10.752] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:10.753] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.loadGeneratorConfigs:182 --> sql: SELECT * FROM generator_config
+[INFO] [17:02:45.957] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:46.327] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:47.697] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:47.803] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:49.218] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:49.229] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:50.241] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:50.248] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:51.412] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:51.429] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:52.465] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:52.471] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:53.657] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:02:53.663] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:03:14.946] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:03:47.740] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.loadDbDriver:118 --> load driver class: SQLServerDriver:2
+[INFO] [17:03:47.740] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:03:48.027] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:38 --> getConnection, connection url: ConnectionID:1 ClientConnectionId: c7930cec-e92a-4ca9-8b6e-3435f30b5fcc
+[INFO] [17:03:49.489] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:03:49.572] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:04:07.834] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:04:07.835] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getTableNames:44 --> getTableNames, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:04:07.835] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:04:07.971] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:38 --> getConnection, connection url: ConnectionID:2 ClientConnectionId: 5bdd3a23-a396-4178-91da-37dcf607ed77
+[INFO] [17:05:16.067] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:05:16.068] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:05:16.069] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:05:16.258] [JavaFX Application Thread] [] org.mybatis.generator.logging.LogFactory.setImplementation:105 --> Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@389a48df' adapter.
+[DEBUG] [17:05:16.260] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..business_user"
+[DEBUG] [17:05:16.326] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.327] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CCount", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.327] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CAgent_number", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.327] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CName", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.328] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CPassword", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.328] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CType", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.328] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "groupid", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.329] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IStatus", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.329] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CEmail", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.330] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CCellphone", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.331] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CRegiste_time", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.331] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.331] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.332] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "bu_level", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:05:16.332] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "cParents_acount", data type 12, in table "ZFLDB.dbo.business_user"
+[INFO] [17:07:39.602] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:07:39.603] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:07:39.603] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:07:39.762] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..RSA"
+[DEBUG] [17:07:39.897] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.898] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "serverNum", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.898] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "publicKey", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.898] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "privateKey", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.899] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "createTime", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.899] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:07:39.899] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.RSA"
+[INFO] [17:07:52.236] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:07:52.237] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:07:52.237] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:07:52.398] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..Makeup"
+[DEBUG] [17:07:52.459] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.460] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CServerNum", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.461] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IType", data type 4, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.461] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CDome", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.461] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CPerAmount", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.462] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CAmount", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.462] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CFeeAmount", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.462] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CTransNum", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.463] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IQRId", data type 4, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.463] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CStatus", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.463] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IIsCallback", data type 4, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.464] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CTranTime", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.464] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CNotifyUrl", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.464] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CGoodsName", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.465] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CGoodsInfo", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.465] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CGoodsNum", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.465] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CBuyerName", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.466] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CContact", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.466] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.Makeup"
+[DEBUG] [17:07:52.466] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.Makeup"
+[INFO] [17:08:05.439] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:08:05.440] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:08:05.441] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:08:05.597] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..Pay_QR_Code"
+[DEBUG] [17:08:05.661] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.662] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Pay_type", data type 4, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.662] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Pay_QR", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.662] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Callback_Interface", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.663] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CServer_num", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.663] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FFixed_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.664] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CPay_type", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.664] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FDaily_transaction_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.664] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FSum_transaction_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.665] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.665] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.665] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "use_bank", data type -7, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.665] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "ali_account", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.666] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R3", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.666] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R4", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:08:05.666] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R5", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[INFO] [17:32:34.958] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :F:\软件\mybatis-generator-gui\.\config\sqlite3.db
+[INFO] [17:32:37.147] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:32:37.147] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getTableNames:44 --> getTableNames, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:32:37.189] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.loadDbDriver:118 --> load driver class: SQLServerDriver:2
+[INFO] [17:32:37.189] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[INFO] [17:32:37.469] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:38 --> getConnection, connection url: ConnectionID:1 ClientConnectionId: b8666318-72c0-4d67-bcea-8827c2c40b45
+[INFO] [17:33:12.053] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:33:12.054] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:33:12.055] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:33:12.226] [JavaFX Application Thread] [] org.mybatis.generator.logging.LogFactory.setImplementation:105 --> Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@2e6b8714' adapter.
+[DEBUG] [17:33:12.408] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..business_user"
+[DEBUG] [17:33:12.514] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.515] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CCount", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.516] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CAgent_number", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.516] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CName", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.516] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CPassword", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.517] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CType", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.517] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "groupid", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.517] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IStatus", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.518] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CEmail", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.518] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CCellphone", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.518] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CRegiste_time", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.519] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.519] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.519] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "bu_level", data type 4, in table "ZFLDB.dbo.business_user"
+[DEBUG] [17:33:12.520] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "cParents_acount", data type 12, in table "ZFLDB.dbo.business_user"
+[INFO] [17:33:36.941] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:33:36.941] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:33:36.942] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:33:37.106] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..Pay_QR_Code"
+[DEBUG] [17:33:37.184] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.184] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Pay_type", data type 4, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.185] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Pay_QR", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.185] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "Callback_Interface", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.185] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CServer_num", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.186] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FFixed_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.186] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "CPay_type", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.186] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FDaily_transaction_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.187] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "FSum_transaction_amount", data type 8, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.187] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.187] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.188] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "use_bank", data type -7, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.188] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "ali_account", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.188] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R3", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.189] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R4", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[DEBUG] [17:33:37.189] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R5", data type 12, in table "ZFLDB.dbo.Pay_QR_Code"
+[INFO] [17:33:47.570] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.findConnectorLibPath:215 --> jar resource: jar:file:/F:/%e8%bd%af%e4%bb%b6/mybatis-generator-gui/mybatis-generator-gui.jar!/logback.xml
+[INFO] [17:33:47.571] [JavaFX Application Thread] [] com.zzg.mybatis.generator.bridge.MybatisGeneratorBridge.generate:67 --> connectorLibPath: F:\软件\mybatis-generator-gui\lib\sqljdbc4-4.0.jar
+[INFO] [17:33:47.571] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:sqlserver://47.92.74.25:1433;databaseName=ZFLDB
+[DEBUG] [17:33:47.797] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:506 --> Retrieving column information for table "ZFLDB..RSA"
+[DEBUG] [17:33:47.857] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "IId", data type 4, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.859] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "serverNum", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.860] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "publicKey", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.861] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "privateKey", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.861] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "createTime", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.862] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R1", data type 12, in table "ZFLDB.dbo.RSA"
+[DEBUG] [17:33:47.863] [JavaFX Application Thread] [] org.mybatis.generator.internal.db.DatabaseIntrospector.getColumns:563 --> Found column "R2", data type 12, in table "ZFLDB.dbo.RSA"
